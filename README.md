@@ -13,13 +13,3 @@ MySQL Database
 SQL
 
 Bootstrap
-
-What I Learned
-
-Writing and executing SQL queries
-
-Manipulating and managing data in a MySQL database
-
-Retrieving and inserting data using PHP
-
-Using SQL JOIN clauses to work with related tables
