@@ -1,6 +1,6 @@
 Project Overview
 
-This project is a web-based application built to improve my skills in full-stack web development, with a focus on database integration and backend logic.
+This project is a web-based application built to focus on database integration and backend logic.
 
 Technologies Used
 
